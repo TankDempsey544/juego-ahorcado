@@ -17,7 +17,3 @@ El juego del ahorcado es un juego de adivinanza de palabras donde los jugadores 
 - desarrollo
 - ahorcado
 
-**Ejemplo de Ejecucion:**
-```bash
-python juego_ahorcado.py
-```
